@@ -1,0 +1,15 @@
+INSTALACION:
+
+1. Clonar el repositorio
+2. Copiar los archivos del proyecto en la carpeta raíz de tu servidor web
+3. Crear una base de datos
+4. Ejecutar el archivo sql/table.sql en la base de datos
+5. Editar el archivo config/database.php y establecer los valores de conexión a la base de datos
+6. Acceder al proyecto desde el navegador web, utilizando la URL correspondiente a la carpeta donde se copiaron los archivos del proyecto
+
+El proyecto fue desarrollado:
+PHP Version 8.1
+Base de datos MySQL 5.7
+Servidor web Apache 2.4
+
+

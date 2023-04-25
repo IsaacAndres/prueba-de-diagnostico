@@ -10,7 +10,7 @@
 * Clonar el repositorio.
 * Copiar los archivos del proyecto en la carpeta raíz de tu servidor web.
 * Crear una base de datos.
-* Ejecutar el archivo ```sql/table.sql``` en la base de datos.
+* Ejecutar el archivo ```sql/tables.sql``` en la base de datos.
 * Editar el archivo ```config/database.php``` y establecer los valores de conexión a la base de datos.
 * Acceder al proyecto desde el navegador web, utilizando la URL correspondiente a la carpeta donde se copiaron los archivos del proyecto.
 
